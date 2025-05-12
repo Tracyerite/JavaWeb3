@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_CREDENTIALS = 'Docker'
-        IMAGE_NAME = 'eriteedisemi/java-web-calculator'
+        IMAGE_NAME = 'tracyedisemi/java-web-calculator'
     }
 
     stages {
